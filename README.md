@@ -5,7 +5,7 @@ clone 到本地可直接打开index.html 文件查看效果, 仅支持移动端,
 
 ### 直接部署
 ```
-git clone https://github.com/nijun008/weddingInvitations.git
+git clone https://github.com/zhutao20170722/2023weddingInvitations.git
 cd weddingInvitations
 npm install
 node app
